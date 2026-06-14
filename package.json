@@ -1,0 +1,13 @@
+{
+  "name": "adxdownload",
+  "version": "1.0.0",
+  "description": "舞萌 DX 谱面下载站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

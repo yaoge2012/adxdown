@@ -1,0 +1,210 @@
+[
+  {
+    "id": "prism-plus",
+    "name": "PRiSM PLUS",
+    "subtitle": "maimai でらっくす PRiSM PLUS",
+    "folder": "prism-plus",
+    "era": "dx",
+    "accent": "#9B8AFB"
+  },
+  {
+    "id": "prism",
+    "name": "PRiSM",
+    "subtitle": "maimai でらっくす PRiSM",
+    "folder": "prism",
+    "era": "dx",
+    "accent": "#7B68EE"
+  },
+  {
+    "id": "buddies-plus",
+    "name": "BUDDiES PLUS",
+    "subtitle": "maimai でらっくす BUDDiES PLUS",
+    "folder": "buddies-plus",
+    "era": "dx",
+    "accent": "#F472B6"
+  },
+  {
+    "id": "buddies",
+    "name": "BUDDiES",
+    "subtitle": "maimai でらっくす BUDDiES",
+    "folder": "buddies",
+    "era": "dx",
+    "accent": "#EC4899"
+  },
+  {
+    "id": "festival-plus",
+    "name": "FESTiVAL PLUS",
+    "subtitle": "maimai でらっくす FESTiVAL PLUS",
+    "folder": "festival-plus",
+    "era": "dx",
+    "accent": "#FB923C"
+  },
+  {
+    "id": "festival",
+    "name": "FESTiVAL",
+    "subtitle": "maimai でらっくす FESTiVAL",
+    "folder": "festival",
+    "era": "dx",
+    "accent": "#FF6B35"
+  },
+  {
+    "id": "universe-plus",
+    "name": "UNiVERSE PLUS",
+    "subtitle": "maimai でらっくす UNiVERSE PLUS",
+    "folder": "universe-plus",
+    "era": "dx",
+    "accent": "#C084FC"
+  },
+  {
+    "id": "universe",
+    "name": "UNiVERSE",
+    "subtitle": "maimai でらっくす UNiVERSE",
+    "folder": "universe",
+    "era": "dx",
+    "accent": "#9D4EDD"
+  },
+  {
+    "id": "splash-plus",
+    "name": "Splash PLUS",
+    "subtitle": "maimai でらっくす Splash PLUS",
+    "folder": "splash-plus",
+    "era": "dx",
+    "accent": "#38BDF8"
+  },
+  {
+    "id": "splash",
+    "name": "Splash",
+    "subtitle": "maimai でらっくす Splash",
+    "folder": "splash",
+    "era": "dx",
+    "accent": "#00B4D8"
+  },
+  {
+    "id": "dx",
+    "name": "でらっくす",
+    "subtitle": "maimai でらっくす（初版 DX）",
+    "folder": "dx",
+    "era": "dx",
+    "accent": "#06D6A0"
+  },
+  {
+    "id": "circle-plus",
+    "name": "CIRCLE PLUS",
+    "subtitle": "maimai でらっくす CIRCLE PLUS",
+    "folder": "circle-plus",
+    "era": "dx",
+    "accent": "#FF69B4"
+  },
+  {
+    "id": "circle",
+    "name": "CIRCLE",
+    "subtitle": "maimai でらっくす CIRCLE",
+    "folder": "circle",
+    "era": "dx",
+    "accent": "#FF1493"
+  },
+  {
+    "id": "murder-plus",
+    "name": "MURDER PLUS",
+    "subtitle": "maimai MURDER PLUS / FiNALE PLUS",
+    "folder": "murder-plus",
+    "era": "cabinet",
+    "accent": "#EF4444"
+  },
+  {
+    "id": "murder",
+    "name": "MURDER",
+    "subtitle": "maimai MURDER / FiNALE",
+    "folder": "murder",
+    "era": "cabinet",
+    "accent": "#DC2626"
+  },
+  {
+    "id": "pink-plus",
+    "name": "PiNK PLUS",
+    "subtitle": "maimai PiNK PLUS",
+    "folder": "pink-plus",
+    "era": "cabinet",
+    "accent": "#F9A8D4"
+  },
+  {
+    "id": "finale",
+    "name": "FiNALE",
+    "subtitle": "maimai FiNALE",
+    "folder": "finale",
+    "era": "cabinet",
+    "accent": "#F472B6"
+  },
+  {
+    "id": "pink",
+    "name": "PiNK",
+    "subtitle": "maimai PiNK",
+    "folder": "pink",
+    "era": "cabinet",
+    "accent": "#EC4899"
+  },
+  {
+    "id": "orange-plus",
+    "name": "ORANGE PLUS",
+    "subtitle": "maimai ORANGE PLUS",
+    "folder": "orange-plus",
+    "era": "cabinet",
+    "accent": "#FDBA74"
+  },
+  {
+    "id": "orange",
+    "name": "ORANGE",
+    "subtitle": "maimai ORANGE",
+    "folder": "orange",
+    "era": "cabinet",
+    "accent": "#F97316"
+  },
+  {
+    "id": "green-plus",
+    "name": "GreeN PLUS",
+    "subtitle": "maimai GreeN PLUS",
+    "folder": "green-plus",
+    "era": "cabinet",
+    "accent": "#86EFAC"
+  },
+  {
+    "id": "green",
+    "name": "GreeN",
+    "subtitle": "maimai GreeN",
+    "folder": "green",
+    "era": "cabinet",
+    "accent": "#22C55E"
+  },
+  {
+    "id": "milk",
+    "name": "MiLK",
+    "subtitle": "maimai MiLK",
+    "folder": "milk",
+    "era": "cabinet",
+    "accent": "#E8E8E8"
+  },
+  {
+    "id": "milk-plus",
+    "name": "MiLK PLUS",
+    "subtitle": "maimai MiLK PLUS",
+    "folder": "milk-plus",
+    "era": "cabinet",
+    "accent": "#F5F5F5"
+  },
+  {
+    "id": "maimai-plus",
+    "name": "maimai PLUS",
+    "subtitle": "maimai PLUS",
+    "folder": "maimai-plus",
+    "era": "cabinet",
+    "accent": "#94A3B8"
+  },
+  {
+    "id": "maimai",
+    "name": "maimai",
+    "subtitle": "maimai 初版",
+    "folder": "maimai",
+    "era": "cabinet",
+    "accent": "#64748B"
+  }
+]

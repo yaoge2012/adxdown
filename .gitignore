@@ -1,0 +1,14 @@
+ # Node
+ node_modules/
+
+ # 谱面文件（7.3GB，太大，不提交到 GitHub）
+ files/
+ !files/.gitkeep
+
+ # 日志 & 临时文件
+ *.log
+ server_out*.txt
+
+ # Windows
+ Thumbs.db
+ Desktop.ini
