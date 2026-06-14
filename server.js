@@ -48,6 +48,8 @@ const MIME = {
 };
 
 const PORT = process.env.PORT || 3000;
+// 外部存储地址（NAS / WebDAV）。设置后下载会重定向到外部地址，不从本地 files 读取
+const EXTERNAL_DOWNLOAD_URL = process.env.EXTERNAL_DOWNLOAD_URL || "";
 
 function sendJson(res, status, data) {
   const body = JSON.stringify(data);
@@ -269,6 +271,15 @@ function handleDownload(req, res, versionId, filename) {
     return;
   }
 
+  // 如果设置了外部下载地址，重定向到 NAS / WebDAV
+  if (EXTERNAL_DOWNLOAD_URL) {
+    const externalUrl = `${EXTERNAL_DOWNLOAD_URL.replace(/\/+$/, "")}/${version.folder}/${encodeURIComponent(safeName)}`;
+    console.log("[DOWNLOAD] Redirecting to:", externalUrl);
+    res.writeHead(302, { Location: externalUrl });
+    res.end();
+    return;
+  }
+  
   const filePath = path.join(FILES_DIR, version.folder, safeName);
   const resolved = path.resolve(filePath);
   const allowedRoot = path.resolve(path.join(FILES_DIR, version.folder));
