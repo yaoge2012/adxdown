@@ -1,0 +1,340 @@
+{
+  "ARAIS.zip": {
+    "title": "ARAIS",
+    "artist": "千本松 仁",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": "Sukiyaki vs Happy"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": "Sukiyaki vs Happy"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "小鳥遊さん"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "Sukiyaki vs Happy"
+      }
+    ]
+  },
+  "BIRTH.zip": {
+    "title": "BIRTH",
+    "artist": "llliiillliiilll",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": "Safata.Hz"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": "Safata.Hz"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "Safata.Hz"
+      }
+    ]
+  },
+  "Paranoia.zip": {
+    "title": "Paranoia",
+    "artist": "DiGiTAL WiNG feat. 花たん",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "Sqlupp (Camellia_s SqleipdHiytex Remix).zip": {
+    "title": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+    "artist": "owl＊tree Remixed by Camellia",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "華火職人"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": "華火職人"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "小鳥遊さん"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "華火職人"
+      }
+    ]
+  },
+  "YURUSHITE.zip": {
+    "title": "YURUSHITE",
+    "artist": "t+pazolite",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "小鳥遊さん"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": "小鳥遊さん"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "シチミヘルツ"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "小鳥遊さん"
+      }
+    ]
+  },
+  "アスノヨゾラ哨戒班.zip": {
+    "title": "アスノヨゾラ哨戒班",
+    "artist": "Orangestar feat.IA",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "隅田川星人"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "ダンスロボットダンス [DX].zip": {
+    "title": "ダンスロボットダンス [DX]",
+    "artist": "ナユタン星人",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "隅田川星人"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "ベノム.zip": {
+    "title": "ベノム",
+    "artist": "かいりきベア feat.flower",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "マネマネサイコトロピック.zip": {
+    "title": "マネマネサイコトロピック",
+    "artist": "かいりきベア feat.GUMI",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "ワンダーシャッフェンの法則.zip": {
+    "title": "ワンダーシャッフェンの法則",
+    "artist": "アリスシャッハと魔法の楽団",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "Jack"
+      }
+    ]
+  },
+  "物凄いヴァイブスで魔理沙が物凄いラップ.zip": {
+    "title": "物凄いヴァイブスで魔理沙が物凄いラップ",
+    "artist": "魂音泉",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": "7.3Hz＋Jack"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "7.3Hz＋Jack"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "隅田川星人"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "7.3Hz＋Jack"
+      }
+    ]
+  },
+  "町かどタンジェント.zip": {
+    "title": "町かどタンジェント",
+    "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "8+",
+        "charter": "華火職人"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "絡繰りドール.zip": {
+    "title": "絡繰りドール",
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "小鳥遊さん"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "サファ太"
+      }
+    ]
+  }
+}

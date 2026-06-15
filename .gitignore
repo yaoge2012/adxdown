@@ -1,14 +1,22 @@
- # Node
- node_modules/
+# Node
+node_modules/
 
- # 谱面文件（7.3GB，太大，不提交到 GitHub）
- files/
- !files/.gitkeep
+# 谱面文件：只忽略二进制大文件，保留 maidata.json 等元数据
+files/**/*.zip
+files/**/*.adx
+files/**/*.rar
+files/**/*.7z
+files/**/*.ma2
+files/**/*.txt
+!files/*/maidata.json
+!files/*/manifest.json
+!files/*/.gitkeep
+!files/.gitkeep
 
- # 日志 & 临时文件
- *.log
- server_out*.txt
+# 日志 & 临时文件
+*.log
+server_out*.txt
 
- # Windows
- Thumbs.db
- Desktop.ini
+# Windows
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,168 @@
+{
+  "7thSense.zip": {
+    "title": "7thSense",
+    "artist": "削除",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "ぴちネコ"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "ロシェ@ペンギン"
+      }
+    ]
+  },
+  "[宴 NO.6] Wonderland Wars オープニング.zip": {
+    "title": "[宴] Wonderland Wars オープニング",
+    "artist": "「童話」は、全て「戦記」だった",
+    "charts": []
+  },
+  "ひみつをちょーだい.zip": {
+    "title": "ひみつをちょーだい",
+    "artist": "アルスマグナ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "7+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "9+",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "アージェントシンメトリー.zip": {
+    "title": "アージェントシンメトリー",
+    "artist": "Sta feat.b",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Revo@LC"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "14",
+        "charter": "譜面-100号"
+      }
+    ]
+  },
+  "イノコリ先生.zip": {
+    "title": "イノコリ先生",
+    "artist": "HoneyWorks",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "スリップフリップ.zip": {
+    "title": "スリップフリップ",
+    "artist": "tilt-six feat.串伊トモミ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "ロシェ@ペンギン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "秘密の扉から会いにきて.zip": {
+    "title": "秘密の扉から会いにきて",
+    "artist": "田村 ゆかり「のうりん」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "8",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11",
+        "charter": "Revo@LC"
+      }
+    ]
+  }
+}

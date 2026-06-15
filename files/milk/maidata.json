@@ -1,0 +1,220 @@
+{
+  "SPICY SWINGY STYLE.zip": {
+    "title": "SPICY SWINGY STYLE",
+    "artist": "明坂 芹菜(CV:新田 恵海)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "小鳥遊さん"
+      }
+    ]
+  },
+  "[協] 疾走あんさんぶる.zip": {
+    "title": "[宴] 疾走あんさんぶる",
+    "artist": "ビートまりお（COOL&CREATE）",
+    "charts": []
+  },
+  "[蔵] Credits.zip": {
+    "title": "[宴] Credits",
+    "artist": "Frums",
+    "charts": []
+  },
+  "ヤバい○○.zip": {
+    "title": "ヤバい○○",
+    "artist": "上坂すみれ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "LabiLabi"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11+",
+        "charter": "LabiLabi"
+      }
+    ]
+  },
+  "人生リセットボタン.zip": {
+    "title": "人生リセットボタン",
+    "artist": "kemu",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "ぴちネコ"
+      }
+    ]
+  },
+  "共感覚おばけ.zip": {
+    "title": "共感覚おばけ",
+    "artist": "ササノマリイ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "ロシェ@ペンギン"
+      }
+    ]
+  },
+  "拝啓ドッペルゲンガー.zip": {
+    "title": "拝啓ドッペルゲンガー",
+    "artist": "kemu",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "LabiLabi"
+      }
+    ]
+  },
+  "永遠のメロディ.zip": {
+    "title": "永遠のメロディ",
+    "artist": "あ～るの～と（いえろ～ぜぶら）",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "玉子豆腐"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "疾走あんさんぶる.zip": {
+    "title": "疾走あんさんぶる",
+    "artist": "ビートまりお（COOL&CREATE）",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "麒麟.zip": {
+    "title": "麒麟",
+    "artist": "sasakure.UK",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "7",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9",
+        "charter": "-"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "13",
+        "charter": "ぴちネコ"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "サファ太"
+      }
+    ]
+  }
+}

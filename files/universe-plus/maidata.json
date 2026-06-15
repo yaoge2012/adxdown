@@ -1,0 +1,80 @@
+{
+  "Armageddon.zip": {
+    "title": "Armageddon",
+    "artist": "LeaF",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": "翠楼屋"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": "翠楼屋"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "翠楼屋"
+      }
+    ]
+  },
+  "ただ選択があった.zip": {
+    "title": "ただ選択があった",
+    "artist": "フロクロ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "2",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "畳返し"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "大輪の魂 (feat. AO, 司芭扶).zip": {
+    "title": "大輪の魂 (feat. AO, 司芭扶)",
+    "artist": "魂音泉",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Jack"
+      }
+    ]
+  }
+}

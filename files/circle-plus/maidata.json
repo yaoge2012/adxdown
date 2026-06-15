@@ -1,0 +1,622 @@
+{
+  "3rd Avenue.zip": {
+    "title": "3rd Avenue",
+    "artist": "Sound Souler",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "Luxizhel"
+      }
+    ]
+  },
+  "AiAe.zip": {
+    "title": "AiAe",
+    "artist": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "ANiMA.zip": {
+    "title": "ANiMA",
+    "artist": "xi",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "14+",
+        "charter": "Safazhel"
+      }
+    ]
+  },
+  "BOW AND ARROW.zip": {
+    "title": "BOW AND ARROW (アニメ・オープニングver.)",
+    "artist": "米津玄師",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11+",
+        "charter": "緑風 犬三郎"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "13",
+        "charter": "Luxizhel"
+      }
+    ]
+  },
+  "Break The Speakers.zip": {
+    "title": "Break The Speakers",
+    "artist": "DJ Myosuke",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "ロシェ@ペンギン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14+",
+        "charter": "BELiZHEL"
+      }
+    ]
+  },
+  "Chasing destiny.zip": {
+    "title": "Chasing destiny",
+    "artist": "涼宮ハルヒ(CV.平野綾)",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "Colorful Starting Line.zip": {
+    "title": "Colorful Starting Line",
+    "artist": "涼宮ハルヒ(CV.平野綾)",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "せめんともり & カマボコ君"
+      }
+    ]
+  },
+  "Galaxy Blaster.zip": {
+    "title": "Galaxy Blaster",
+    "artist": "ああああ",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "KNØCK ØUT!!.zip": {
+    "title": "KNØCK ØUT!!",
+    "artist": "DIVELA feat.ラングドシャ",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "Nine Point Eight.zip": {
+    "title": "Nine Point Eight",
+    "artist": "Mili",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Jack"
+      }
+    ]
+  },
+  "Operation☆DOTABATA!.zip": {
+    "title": "Operation☆DOTABATA!",
+    "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "アマリリス"
+      }
+    ]
+  },
+  "RE Aoharu.zip": {
+    "title": "RE Aoharu",
+    "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "せめんともり"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "TECHNOPOLIS 2085.zip": {
+    "title": "TECHNOPOLIS 2085",
+    "artist": "PRASTIK DANCEFLOOR",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "シチミヘルツ"
+      }
+    ]
+  },
+  "Usagi Flap.zip": {
+    "title": "Usagi Flap",
+    "artist": "Nor「ブルーアーカイブ -Blue Archive-」",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "カマボコ君"
+      }
+    ]
+  },
+  "WWW.zip": {
+    "title": "WWW",
+    "artist": "HIMEHINA",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "じゃこレモン"
+      }
+    ]
+  },
+  "ZEUS.zip": {
+    "title": "ZEUS",
+    "artist": "DÉ DÉ MOUSE & KAJI",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "せめんともり"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "[奏] クレイジークレイジーダンサーズ [1P].zip": {
+    "title": "[宴/バティ/1P] クレイジークレイジーダンサーズ [13?]",
+    "artist": "ビートまりお＋あまね（COOL&CREATE）",
+    "charts": []
+  },
+  "[奏] クレイジークレイジーダンサーズ [2P].zip": {
+    "title": "[宴/バディ/2P] クレイジークレイジーダンサーズ  [13?]",
+    "artist": "ビートまりお＋あまね（COOL&CREATE）",
+    "charts": []
+  },
+  "[破] テレパシ.zip": {
+    "title": "[宴] テレパシ [14?]",
+    "artist": "DECO*27",
+    "charts": []
+  },
+  "[習] からくりピエロ.zip": {
+    "title": "[宴] からくりピエロ [11?]",
+    "artist": "40mP",
+    "charts": []
+  },
+  "[音] On your mark (104期 Ver.).zip": {
+    "title": "[音]On your mark (104期 Ver.) [13+?]",
+    "artist": "蓮ノ空女学院スクールアイドルクラブ",
+    "charts": []
+  },
+  "[音] 愛包ダンスホール.zip": {
+    "title": "[音]愛包ダンスホール [13+?]",
+    "artist": "HIMEHINA",
+    "charts": []
+  },
+  "[音]テトリス.zip": {
+    "title": "[宴] テトリス [13?]",
+    "artist": "柊マグネタイト",
+    "charts": []
+  },
+  "うたかたよいかないで.zip": {
+    "title": "うたかたよいかないで",
+    "artist": "HIMEHINA",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": ""
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "お返事まだカナ？おじさん構文！.zip": {
+    "title": "お返事まだカナ？おじさん構文！",
+    "artist": "吉本おじさん",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": "MAS conv by miriiaa"
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": "MAS conv by miriiaa"
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "キスキツネ.zip": {
+    "title": "キスキツネ",
+    "artist": "HIMEHINA",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "Luxizhel"
+      }
+    ]
+  },
+  "キミは“見ていたね”？.zip": {
+    "title": "キミは“見ていたね”？",
+    "artist": "篠崎あやと、橘亮祐／歌：結城 莉玖(CV：朝日奈 丸佳)、東雲 つむぎ(CV：和泉 風花)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "クロノイデア.zip": {
+    "title": "クロノイデア",
+    "artist": "iDEN LiLY feat.X-Fenriey",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "Jack"
+      }
+    ]
+  },
+  "ソテリア.zip": {
+    "title": "ソテリア",
+    "artist": "Rafutsuri feat.桜あおい",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "シチミヘルツ"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "ダイダイダイダイダイキライ.zip": {
+    "title": "ダイダイダイダイダイキライ",
+    "artist": "雨良 Amala",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11+",
+        "charter": "緑風　犬三郎"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "13+",
+        "charter": "サファ太"
+      }
+    ]
+  },
+  "テレパシ.zip": {
+    "title": "テレパシ",
+    "artist": "DECO*27",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "バッド・ダンス・ホール [DX].zip": {
+    "title": "バッド・ダンス・ホール [DX]",
+    "artist": "ぱなまん/カラスヤサボウ",
+    "charts": [
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "奇々解体.zip": {
+    "title": "奇々解体",
+    "artist": "MURASAKI feat.かたたかんな",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "廻屋渉"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "廻屋渉"
+      }
+    ]
+  },
+  "愛♡スクリ～ム！.zip": {
+    "title": "愛♡スクリ～ム！",
+    "artist": "AiScReam[黒澤ルビィ(CV.降幡 愛)、上原歩夢(CV.大西亜玖璃)、若菜四季(CV.大熊和奏)]",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "2",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "まぐランド"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11",
+        "charter": "緑風 犬三郎"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "13",
+        "charter": "ぴちネコ"
+      }
+    ]
+  },
+  "無敵的ハピネス！(SOS団5人Ver.).zip": {
+    "title": "無敵的ハピネス！(SOS団5人Ver.)",
+    "artist": "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "せめんともり"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "きょむりん"
+      }
+    ]
+  },
+  "雑魚.zip": {
+    "title": "雑魚",
+    "artist": "柊マグネタイト",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "2",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Luxizhel"
+      }
+    ]
+  },
+  "魔理沙は大変なものを盗んでいきました [DX].zip": {
+    "title": "魔理沙は大変なものを盗んでいきました [DX]",
+    "artist": "ARM＋夕野ヨシミ(IOSYS)feat. 藤咲かりん",
+    "charts": [
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "Luxizhel"
+      }
+    ]
+  }
+}

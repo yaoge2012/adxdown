@@ -1,0 +1,85 @@
+{
+  "AMAZING MIGHTYYYY!!!!.zip": {
+    "title": "AMAZING MIGHTYYYY!!!!",
+    "artist": "WAiKURO",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "13+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14+",
+        "charter": "合作だよ"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "14",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "brilliant better.zip": {
+    "title": "brilliant better",
+    "artist": "御形 アリシアナ(CV:福原 綾香)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "ロシェ@ペンギン"
+      }
+    ]
+  },
+  "CITRUS MONSTER.zip": {
+    "title": "CITRUS MONSTER",
+    "artist": "D-Cee",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "ぴちネコ"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "ロシェ@ペンギン"
+      }
+    ]
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "Endless, Sleepless Night.zip": {
+    "title": "Endless, Sleepless Night",
+    "artist": "samfree feat.(V)・∀・(V)かにぱん。(A-ONE)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "Life Feels Good.zip": {
+    "title": "Life Feels Good",
+    "artist": "Cranky",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "Live & Learn.zip": {
+    "title": "Live",
+    "artist": "Crush 40「ソニックアドベンチャー2」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Techno Kitchen"
+      }
+    ]
+  },
+  "M.S.S.Planet.zip": {
+    "title": "M.S.S.Planet",
+    "artist": "M.S.S Project",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "magician_s operation.zip": {
+    "title": "magician's operation",
+    "artist": "EZFG",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "Monochrome Rainbow.zip": {
+    "title": "Monochrome Rainbow",
+    "artist": "Sta",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "Outlaw_s Lullaby.zip": {
+    "title": "Outlaw's Lullaby",
+    "artist": "「龍が如く２」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "譜面-100号"
+      }
+    ]
+  },
+  "POP STAR.zip": {
+    "title": "POP STAR",
+    "artist": "平井堅 [cover]",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "RIDGE RACER STEPS -GMT remix-.zip": {
+    "title": "RIDGE RACER STEPS -GMT remix-",
+    "artist": "Yuji Masubuchi(BNGI)「RIDGE RACER」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Jack"
+      }
+    ]
+  },
+  "SPiCa.zip": {
+    "title": "SPiCa",
+    "artist": "とくP",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "ロシェ@ペンギン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "Windy Hill -Zone 1.zip": {
+    "title": "Windy Hill -Zone 1",
+    "artist": "大谷智哉「ソニック ロストワールド」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "チャン@DP皆伝"
+      }
+    ]
+  },
+  "[傾] Back 2 Back.zip": {
+    "title": "[宴] Back 2 Back",
+    "artist": "長沼英樹「ソニック ラッシュ」",
+    "charts": []
+  },
+  "[撫] からくりピエロ.zip": {
+    "title": "[宴] からくりピエロ",
+    "artist": "40mP",
+    "charts": []
+  },
+  "[耐] CYCLES.zip": {
+    "title": "[宴] CYCLES",
+    "artist": "Masayoshi Minoshima feat. 綾倉盟",
+    "charts": []
+  },
+  "[蔵] 林檎華憐歌.zip": {
+    "title": "[宴] 林檎華憐歌",
+    "artist": "ビートまりお母(尾崎順子)",
+    "charts": []
+  },
+  "ぐるぐるWASH！コインランドリー・ディスコ.zip": {
+    "title": "ぐるぐるWASH！コインランドリー・ディスコ",
+    "artist": "D.watt(IOSYS)feat.ちよこ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "譜面-100号"
+      }
+    ]
+  },
+  "むかしむかしのきょうのぼく.zip": {
+    "title": "むかしむかしのきょうのぼく",
+    "artist": "DECO*27",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "アゲアゲアゲイン.zip": {
+    "title": "アゲアゲアゲイン",
+    "artist": "Mitchie M",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "エピクロスの虹はもう見えない.zip": {
+    "title": "エピクロスの虹はもう見えない",
+    "artist": "SYNC.ART'S feat. 美里",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11+",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "13",
+        "charter": "rioN"
+      }
+    ]
+  },
+  "オパ! オパ! RACER -GMT mashup-.zip": {
+    "title": "オパ! オパ! RACER -GMT mashup-",
+    "artist": "COSIO(ZUNTATA/TAITO)「ファンタジーゾーン」「RIDGE RACER」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "チャン@DP皆伝"
+      }
+    ]
+  },
+  "コトバ・カラフル.zip": {
+    "title": "コトバ・カラフル",
+    "artist": "うたよめ575＜正岡小豆(大坪由佳)小林抹茶(大橋彩香)＞",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "8+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "シアワセうさぎ.zip": {
+    "title": "シアワセうさぎ",
+    "artist": "あまね＋ビートまりお(COOL＆CREATE)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "8+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "タカハせ！名人マン.zip": {
+    "title": "タカハせ！名人マン",
+    "artist": "ビートまりお   ARM feat. 高橋名人",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "某S氏"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "ハロ／ハワユ.zip": {
+    "title": "ハロ／ハワユ",
+    "artist": "ナノウ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "ファンタジーゾーン OPA-OPA! -GMT remix-.zip": {
+    "title": "ファンタジーゾーン OPA-OPA! -GMT remix-",
+    "artist": "Hiro(SEGA)「ファンタジーゾーン」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "リッジでリッジでGO!GO!GO! -GMT mashup-.zip": {
+    "title": "リッジでリッジでGO!GO!GO! -GMT mashup-",
+    "artist": "Hiro(SEGA)「RIDGE RACER」「電車でGO!」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "リリリリ★バーニングナイト.zip": {
+    "title": "リリリリ★バーニングナイト",
+    "artist": "samfree",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "10+",
+        "charter": "Jack"
+      }
+    ]
+  },
+  "レッツゴー!陰陽師.zip": {
+    "title": "レッツゴー!陰陽師",
+    "artist": "「新豪血寺一族 -煩悩解放-」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "2",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "某S氏"
+      }
+    ]
+  },
+  "患部で止まってすぐ溶ける～狂気の優曇華院.zip": {
+    "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+    "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "14",
+        "charter": "某S氏"
+      }
+    ]
+  }
+}

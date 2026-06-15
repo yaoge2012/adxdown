@@ -157,6 +157,37 @@ function scanVersionCharts(version) {
 
   const entries = fs.readdirSync(folderPath, { withFileTypes: true });
   const charts = [];
+  // 远程模式（NAS）：若无本地谱面文件，直接从 maidata.json 生成歌曲列表
+  if (EXTERNAL_DOWNLOAD_URL && maidataCache) {
+    const hasLocalFiles = entries.some(e =>
+      e.isFile() && [".zip", ".adx"].includes(path.extname(e.name).toLowerCase())
+    );
+    if (!hasLocalFiles) {
+      for (const [fileName, data] of Object.entries(maidataCache)) {
+        const parsed = data.charts ? data : parseMaidataJson(data);
+        const meta = (manifestMap.get(fileName)) || {};
+        for (const ci of parsed.charts) {
+          charts.push({
+            id: version.id + "/" + fileName + "_" + ci.difficulty,
+            file: fileName,
+            title: parsed.title,
+            artist: parsed.artist || "",
+            charter: ci.charter || meta.charter || "",
+            difficulty: ci.difficulty,
+            level: ci.level,
+            dxLevel: 0,
+            size: "—",
+            sizeBytes: 0,
+            versionId: version.id,
+            versionName: version.name,
+            folder: version.folder,
+          });
+        }
+      }
+      charts.sort((a, b) => a.title.localeCompare(b.title, "zh-CN"));
+      return charts;
+    }
+  }
   const maidataHandled = new Set();
 
   for (const entry of entries) {
@@ -408,6 +439,18 @@ function countVersionFiles(version) {
   if (!fs.existsSync(folderPath)) return 0;
   try {
     const entries = fs.readdirSync(folderPath);
+    // 远程模式：没有本地谱面文件时从 maidata.json 统计
+    const hasLocalFiles = entries.some(name =>
+      [".zip", ".adx"].includes(path.extname(name).toLowerCase())
+    );
+    if (!hasLocalFiles && EXTERNAL_DOWNLOAD_URL) {
+      const maidataPath = path.join(folderPath, "maidata.json");
+      if (fs.existsSync(maidataPath)) {
+        const cache = JSON.parse(fs.readFileSync(maidataPath, "utf8"));
+        return Object.keys(cache).length;
+      }
+      return 0;
+    }
     return entries.filter((name) => {
       if (name.startsWith(".") || name === "manifest.json" || name === "maidata.json") return false;
       const ext = path.extname(name).toLowerCase();

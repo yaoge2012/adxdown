@@ -1,0 +1,158 @@
+{
+  "Ai C.zip": {
+    "title": "Ai C",
+    "artist": "Feryquitous",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "メロンポップ"
+      }
+    ]
+  },
+  "IF_U.zip": {
+    "title": "IF:U",
+    "artist": "MisoilePunch♪",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "Jack"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14+",
+        "charter": "The Dove"
+      }
+    ]
+  },
+  "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと.zip": {
+    "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと",
+    "artist": "t+pazolite & Srav3R",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "鳩ホルダー"
+      }
+    ]
+  },
+  "偉大なる悪魔は実は大天使パトラちゃん様なのだ！.zip": {
+    "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！",
+    "artist": "周防パトラ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "Luxizhel"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "匿名M.zip": {
+    "title": "匿名M",
+    "artist": "ピノキオピー",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "サファ太"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "カマボコ君"
+      }
+    ]
+  },
+  "御旗のもとに [DX].zip": {
+    "title": "御旗のもとに [DX]",
+    "artist": "「サクラ大戦」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "ロシェ@ペンギン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "Luxizhel"
+      }
+    ]
+  }
+}

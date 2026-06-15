@@ -1,0 +1,85 @@
+{
+  "Garden.zip": {
+    "title": "Garden",
+    "artist": "May J. [cover]",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Master",
+        "level": "8",
+        "charter": ""
+      }
+    ]
+  },
+  "Reach For The Stars.zip": {
+    "title": "Reach For The Stars",
+    "artist": "大谷智哉, Jean Paul Makhlouf of Cash Cash「ソニック カラーズ」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "チャン@DP皆伝"
+      }
+    ]
+  },
+  "マトリョシカ.zip": {
+    "title": "マトリョシカ",
+    "artist": "ハチ",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "9+",
+        "charter": "maimai TEAM"
+      },
+      {
+        "difficulty": "Master",
+        "level": "11+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "13",
+        "charter": "はっぴー"
+      }
+    ]
+  }
+}

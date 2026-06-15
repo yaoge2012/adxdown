@@ -1,0 +1,578 @@
+{
+  "BAD∞END∞NIGHT.zip": {
+    "title": "BAD∞END∞NIGHT",
+    "artist": "ひとしずくP・やま△",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "ニャイン"
+      }
+    ]
+  },
+  "DO RORO DERODERO ON DO RORO.zip": {
+    "title": "DO RORO DERODERO ON DO RORO",
+    "artist": "怒髪天「百鬼大戦絵巻」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "13",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "FEEL ALIVE.zip": {
+    "title": "FEEL ALIVE",
+    "artist": "ELEMENTAS feat. NAGISA",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "Feel My Fire.zip": {
+    "title": "Feel My Fire",
+    "artist": "発熱巫女〜ず",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "Fragrance.zip": {
+    "title": "Fragrance",
+    "artist": "Tsukasa(Arte Refact)",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "チャン@DP皆伝"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "14+",
+        "charter": "玉子豆腐"
+      }
+    ]
+  },
+  "Get Off of My Way.zip": {
+    "title": "Get Off of My Way",
+    "artist": "MAN WITH A MISSION [PV]",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "10+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "Like the Wind [Reborn].zip": {
+    "title": "Like the Wind [Reborn]",
+    "artist": "sampling masters MEGA「パワードリフト」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "14",
+        "charter": "ニャイン"
+      }
+    ]
+  },
+  "Night Fly.zip": {
+    "title": "Night Fly",
+    "artist": "発熱巫女〜ず",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "13",
+        "charter": "Moon Strix"
+      }
+    ]
+  },
+  "Quartet Theme [Reborn].zip": {
+    "title": "Quartet Theme [Reborn]",
+    "artist": "COSIO(ZUNTATA/TAITO)「カルテット」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "3",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "Sky High [Reborn].zip": {
+    "title": "Sky High [Reborn]",
+    "artist": "大久保 博(BNGI)「デイトナ USA」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "12+",
+        "charter": "Techno Kitchen"
+      }
+    ]
+  },
+  "Space Harrier Main Theme [Reborn].zip": {
+    "title": "Space Harrier Main Theme [Reborn]",
+    "artist": "佐野 信義「スペースハリアー」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "チャン@DP皆伝"
+      }
+    ]
+  },
+  "Spin me harder.zip": {
+    "title": "Spin me harder",
+    "artist": "D.watt(IOSYS)feat. Asana",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "Starlight Disco.zip": {
+    "title": "Starlight Disco",
+    "artist": "loos feat. Meramipop",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12",
+        "charter": "はっぴー"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "12+",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "[星] おちゃめ機能.zip": {
+    "title": "[宴] おちゃめ機能",
+    "artist": "ゴジマジP",
+    "charts": []
+  },
+  "つけまつける.zip": {
+    "title": "つけまつける",
+    "artist": "きゃりーぱみゅぱみゅ [PV]",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Master",
+        "level": "9",
+        "charter": ""
+      }
+    ]
+  },
+  "ソーラン☆節.zip": {
+    "title": "ソーラン☆節",
+    "artist": "光吉猛修",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "mai-Star"
+      }
+    ]
+  },
+  "千本桜.zip": {
+    "title": "千本桜",
+    "artist": "黒うさP",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "地上の戦士.zip": {
+    "title": "地上の戦士",
+    "artist": "「サクラ大戦」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "5",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "12+",
+        "charter": "譜面-100号"
+      }
+    ]
+  },
+  "泣き虫O_clock.zip": {
+    "title": "泣き虫O'clock",
+    "artist": "Hiro/友香",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "10+",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "mai-Star"
+      },
+      {
+        "difficulty": "ReMaster",
+        "level": "12+",
+        "charter": "ロシェ＠ペンギン"
+      }
+    ]
+  },
+  "炎歌 -ほむらうた-.zip": {
+    "title": "炎歌 -ほむらうた-",
+    "artist": "Hiro/森山愛子",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "4",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "7",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "腐れ外道とチョコレゐト.zip": {
+    "title": "腐れ外道とチョコレゐト",
+    "artist": "ピノキオP",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "9",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "12+",
+        "charter": "ニャイン"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13+",
+        "charter": "はっぴー"
+      }
+    ]
+  },
+  "采配の刻 Power of order.zip": {
+    "title": "采配の刻 Power of order",
+    "artist": "Keitarou Hanada「戦国大戦」",
+    "charts": [
+      {
+        "difficulty": "Basic",
+        "level": "6",
+        "charter": ""
+      },
+      {
+        "difficulty": "Advanced",
+        "level": "8+",
+        "charter": ""
+      },
+      {
+        "difficulty": "Expert",
+        "level": "11+",
+        "charter": "譜面-100号"
+      },
+      {
+        "difficulty": "Master",
+        "level": "13",
+        "charter": "はっぴー"
+      }
+    ]
+  }
+}
